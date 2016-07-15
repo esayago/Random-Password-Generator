@@ -15,7 +15,7 @@ namespace Random_password_generator
             string password = "";
 
             Console.WriteLine("***************************************************");
-            Console.WriteLine("             RANDDOM PASSWORD GENERATOR            ");
+            Console.WriteLine("             RANDOM PASSWORD GENERATOR            ");
             Console.WriteLine("***************************************************");
             // User input to determine how the password will be and if special characters will be added or not
             Console.Write("Enter number of characters: ");
